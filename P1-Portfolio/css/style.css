@@ -1,0 +1,32 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #54544e;
+	font-weight: 300;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-thick {
+	font-weight: 400;
+}
+
+.text-mute {
+	color: #e6e6e6;
+	font-size: 24px;
+}
+
+.slider {
+
+	border-width: 2px;
+	border-color: #bcbbbb;
+}
+
+.top-margin {
+	margin-top: 3.5%;
+}
+
+.left-margin {
+	margin-left: 1.5%
+}
